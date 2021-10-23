@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css?family=ZCOOL+XiaoWei');
+
+
+
+* {
+  font-family: 'ZCOOL XiaoWei', serif !important;
+}
+
+.form-container {
+  display:block;
+  width:90%;
+  padding:2em;
+  margin: 2em auto;
+  background:#fff;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 1rem;
+  font-weight:bold;
+  background-color: #86b7fe;
+}
+form{
+  background-color: beige;
+}
+.matl{
+  color: #1e2125;
+  font-size: 15px;
+
+}
+
+
+.button {
+  margin-top: 1rem;
+  font-weight: bold;
+}
+.center {
+  border: 3px solid #4f5050;
+  text-align: center;
+}
+
+
+
+.example-full-width {
+  width: 100%;
+}
+.form input {
+  margin-right: 0.5em;
+}
+
+.form label {
+  float: left;
+  margin-right: 0.5em;
+}
+.container1 {
+  text-align: center;
+  border: 1px solid green;
+  padding: 5px;
+}
+.container table {
+  border: 1px solid dimgray;
+  background-color: beige;
+  /* You can also uncomment this and remove the align="center" attribute
+    margin: 0 auto;
+  */
+}
+div{
+  border-spacing: 4px;
+  padding-top: 5px;
+  padding-right: 5px;
+  padding-bottom: 5px;
+  padding-left: 5px;
+}
